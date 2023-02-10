@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* header backgroud image */
+header {
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    color: white;
+    width: 100%;
+    height: 980px;
+    left: 0;
+    top: 0;
+}
+
+.banner {
+    font-weight: 700;
+
+
+
+}
+
+.banner {
+    font-size: 17px;
+    font-weight: 200;
+    padding: 300px 230px 200px 200px;
+    width: 250px;
+
+}
+
+.text-description {
+    width: 535px;
+    padding-top: 24px;
+    padding-bottom: 32px;
+}
+
+.btn-primary {
+    height: 64px;
+    width: 160px;
+    border-radius: 5px;
+    border: 0;
+}
+
+/* main section */
+main {
+    max-width: 1072px;
+    margin: 0 auto;
+}
+
+.failure-section {
+    display: flex;
+    align-items: center;
+    margin-top: 130px;
+}
+
+.text-title {
+    width: 200px;
+    height: 90px;
+    font-size: 30px;
+}
+
+.description {
+    width: 400px;
+    padding-top: 24px;
+    padding-bottom: 16px;
+}
+
+ul li {
+    list-style: none;
+}
+
+/* my plans style */
+.section-title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 50px;
+}
+
+.my-plans {
+    margin-top: 130px;
+}
+
+.plans-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.plans-description {
+    color: #737373;
+}
+
+/* gradiant section styles */
+.gradiant-section {
+    width: 1100px;
+    height: 300px;
+    margin-top: 80px;
+    background: linear-gradient(to right, navy, gray) ;
+    border-radius: 10px;
+}
+
+.gradiant-container {
+    padding-top: 58px;
+    padding-left: 85px;
+    padding-right: 618px;
+    height: 95px;
+    width: 460px;
+
+}
+
+.gradiant-title {
+    width: 400px;
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+}
+
+.contact-btn {
+    height: 64px;
+    width: 125px;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 18px;
+    color: #005FAC;
+}
+/* footer */
+.footer-head{
+    display: flex;
+   
+}
+.footer-title{
+    font-weight:400px;
+    color:white;
+    font-size: 30px;
+}
+.footer-container{
+    margin: 130px 230px;
+}
+.footer-container-2{
+    margin: 130px 200px;
+}
+.footer-description{
+    width: 465px;
+    padding-top: 16px;
+    padding-bottom: 24px;
+    color: white;
+
+}
+.cell-contact{
+padding-top: 15px ;
+padding-bottom: 24px;
+color: white;
+
+}
+.mail-contact{
+    color: white;
+}
+.btn{
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 10px;
+   background-color: #005FAC;
+   color: white;
+}
+footer{
+    background-color: black;
+    margin-top: 150px;
+    align-items: center;
+}
